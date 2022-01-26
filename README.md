@@ -5,7 +5,7 @@
 
 ## Sesiones
 
-- [ ] Sesión 01 - Internet y desarrollo web
+- [ ] Sesión 01 - Web, Processing y P5
   - Acuerdos y [presentación](https://ocelotl.cc/)
   - Programación de páginas web
   - Nuevo entorno: [P5.js](https://p5js.org/)
@@ -13,18 +13,13 @@
   - Processing y P5.js. [Transición](https://github.com/processing/p5.js/wiki/Processing-transition) 
     - function, createCanvas y variables 
 
-## Recursos
-
-- [P5.js](https://p5js.org/)
-- [Tone.js](https://tonejs.github.io/)
-- [Glitch](https://glitch.com/) 
-- [Github](https://github.com/)
-- [Github Desktop](https://desktop.github.com/)
-- [Github Pages](https://pages.github.com/)
-- [Tween.js](https://createjs.com/tweenjs)
-- [Three.js](https://threejs.org/)
-- [Hydra](https://hydra.ojack.xyz/)
-- [Estuary](https://estuary.mcmaster.ca/) 
+- [ ] Sesion 02 - Internet y desarrollo web 
+  - Aplicaciones cliente - servidor
+  - HTML y CSS
+  - Modelo de objetos DOM
+  - ¿Qué es JavaScript?
+  - Interacción básica con el DOM por medio de JavaScript
+  - La naturaleza asincrónica de la web: eventos y relaciones con la narrativa audiovisual y para bases de datos
 
 ## Actividades de aprendizaje en clase 
 
@@ -44,3 +39,16 @@
 - Creación de dibujos con formas simples en JavaScript y P5 (30%)
 - Programación de sistema de control multimedia (30%)
 - Desarrollo y programación de narrativas para bases de datos y sus interacciones (40%)
+
+## Recursos
+
+- [P5.js](https://p5js.org/)
+- [Tone.js](https://tonejs.github.io/)
+- [Glitch](https://glitch.com/) 
+- [Github](https://github.com/)
+- [Github Desktop](https://desktop.github.com/)
+- [Github Pages](https://pages.github.com/)
+- [Tween.js](https://createjs.com/tweenjs)
+- [Three.js](https://threejs.org/)
+- [Hydra](https://hydra.ojack.xyz/)
+- [Estuary](https://estuary.mcmaster.ca/) 
