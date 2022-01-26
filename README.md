@@ -5,13 +5,26 @@
 
 ## Sesiones
 
-- [ ] Sesión 01 - Internet y desarrollo web 
+- [ ] Sesión 01 - Internet y desarrollo web
+  - Acuerdos y [presentación](https://ocelotl.cc/)
+  - Programación de páginas web
+  - Nuevo entorno: [P5.js](https://p5js.org/)
+    - Editor en línea y estructura de archivos   
+  - Processing y P5.js. [Transición](https://github.com/processing/p5.js/wiki/Processing-transition) 
+    - function, createCanvas y variables 
 
 ## Recursos
 
 - [P5.js](https://p5js.org/)
 - [Tone.js](https://tonejs.github.io/)
 - [Glitch](https://glitch.com/) 
+- [Github](https://github.com/)
+- [Github Desktop](https://desktop.github.com/)
+- [Github Pages](https://pages.github.com/)
+- [Tween.js](https://createjs.com/tweenjs)
+- [Three.js](https://threejs.org/)
+- [Hydra](https://hydra.ojack.xyz/)
+- [Estuary](https://estuary.mcmaster.ca/) 
 
 ## Actividades de aprendizaje en clase 
 
