@@ -18,9 +18,9 @@
   - Comentar posibilidades y caminos 
   - Repaso P5 
   - Aplicaciones cliente - servidor
-  - HTML y CSS
-  - Modelo de objetos DOM
-  - ¿Qué es JavaScript?
+  - [HTML](https://www.w3schools.com/html/html_intro.asp) y [CSS](https://www.w3schools.com/css/css_intro.asp)
+  - Modelo de objetos [DOM](https://developer.mozilla.org/es/docs/Glossary/DOM) 
+  - ¿Qué es [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)?
 
 ## Actividades de aprendizaje en clase
 
