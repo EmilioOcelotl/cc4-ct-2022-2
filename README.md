@@ -1,3 +1,4 @@
+![portada](https://github.com/EmilioOcelotl/cc4-ct-2022-2/blob/main/img/of13.png)
 
 # Código creativo: narrativas para bases de datos
 
@@ -14,7 +15,8 @@
     - function, createCanvas y variables
 
 - [ ] Sesion 02 - Internet y desarrollo web
-  - Comentar posibilidades
+  - Comentar posibilidades y caminos 
+  - Repaso P5 
   - Aplicaciones cliente - servidor
   - HTML y CSS
   - Modelo de objetos DOM
