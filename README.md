@@ -14,14 +14,20 @@
   - Processing y P5.js. [Transición](https://github.com/processing/p5.js/wiki/Processing-transition)
     - function, createCanvas y variables
 
-- [ ] Sesion 02 - Internet y desarrollo web
+- [x] Sesion 02 - Eventos y arreglos en P5 | [Código](https://editor.p5js.org/emilioocelotl/sketches/o0SQFym9n) | [Video](https://drive.google.com/file/d/16O7oYnm_tfCPlVnXgvaolvYfaNNySbRo/view?usp=sharing)
   - Comentar posibilidades y caminos 
-  - Repaso P5 
-  - Aplicaciones cliente - servidor
-  - [HTML](https://www.w3schools.com/html/html_intro.asp) y [CSS](https://www.w3schools.com/css/css_intro.asp)
-  - Modelo de objetos [DOM](https://developer.mozilla.org/es/docs/Glossary/DOM) 
-  - ¿Qué es [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)?
-
+  - Repaso P5
+   - secuencia de elementos 
+   - cargar archivos
+      - peculiaridades de javascript y trabajo en web
+   - trabajar en el tiempo
+     - setup y draw › cambios en el tiempo y eventos
+   
+- [ ] Sesión 03
+  - Eventos y estructura en P5
+  - Tipos de datos y carga de archivos en P5
+  - Soluciones a límites de tamaño de archivos
+  
 ## Actividades de aprendizaje en clase
 
 - Dibujo mediante funciones simples de P5
@@ -43,6 +49,8 @@
 
 ## Recursos
 
+- [HTML](https://www.w3schools.com/html/html_intro.asp) y [CSS](https://www.w3schools.com/css/css_intro.asp)- Modelo de objetos [DOM](https://developer.mozilla.org/es/docs/Glossary/DOM) 
+- ¿Qué es [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)?
 - [P5.js](https://p5js.org/)
 - [Tone.js](https://tonejs.github.io/)
 - [Atom](https://atom.io/)
