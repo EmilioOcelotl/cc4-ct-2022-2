@@ -23,10 +23,23 @@
    - trabajar en el tiempo
      - setup y draw › cambios en el tiempo y eventos
    
-- [ ] Sesión 03
-  - Eventos y estructura en P5
+- [x] Sesión 03
+  - Comentar: anti y la asociación entre [Glitch](https://glitch.com/) y [Digital Ocean](https://www.digitalocean.com/) 
+  - El navegador como salida al trabajo con p5
+    - Posibilidades y retos
+    - Economía de recursos vs calidad
+    - La consola 
   - Tipos de datos y carga de archivos en P5
-  - Soluciones a límites de tamaño de archivos
+    - preload, loadSound, loadImage, createVideo
+  - Espacio insuficiente ¿ Cambio a un modo local?
+    - [Atom](https://atom.io/)
+    - edit > preferences > install > local-web-server
+    - En la ventana de index.html > Clic derecho > Start Local Web Server 
+
+- [ ] Sesion 04
+  - Arreglos como una forma de almacenar colecciones
+  - Eventos y estructura en P5       	  
+  - Si da tiempo: definir estructura con un archivo externo 
   
 ## Actividades de aprendizaje en clase
 
