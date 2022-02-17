@@ -23,7 +23,7 @@
    - trabajar en el tiempo
      - setup y draw › cambios en el tiempo y eventos
    
-- [x] Sesión 03
+- [x] Sesión 03 | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
   - Comentar: anti y la asociación entre [Glitch](https://glitch.com/) y [Digital Ocean](https://www.digitalocean.com/) 
   - El navegador como salida al trabajo con p5
     - Posibilidades y retos
