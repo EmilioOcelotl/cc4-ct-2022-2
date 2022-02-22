@@ -6,25 +6,11 @@
 
 ## Sesiones
 
-- [x] Sesión 01 - Web, Processing y P5 | [Código](https://editor.p5js.org/emilioocelotl/sketches/eAnvhPnTB) | [Video](https://drive.google.com/file/d/1wdfkNeOsiA0e1EUBgKNGjlUPprTLzn54/view?usp=sharing)
-  - Acuerdos y [presentación](https://ocelotl.cc/)
-  - Transición de IDE tipo P a programación de páginas web
-  - Nuevo entorno: [P5.js](https://p5js.org/)
-    - Editor en línea y estructura de archivos   
-  - Processing y P5.js. [Transición](https://github.com/processing/p5.js/wiki/Processing-transition)
-    - function, createCanvas y variables
+- [x] [Sesión 01](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s01) - Web, Processing y P5 | [Código](https://editor.p5js.org/emilioocelotl/sketches/eAnvhPnTB) | [Video](https://drive.google.com/file/d/1wdfkNeOsiA0e1EUBgKNGjlUPprTLzn54/view?usp=sharing)
 
-- [x] Sesion 02 - Eventos y arreglos en P5 | [Código](https://editor.p5js.org/emilioocelotl/sketches/o0SQFym9n) | [Video](https://drive.google.com/file/d/16O7oYnm_tfCPlVnXgvaolvYfaNNySbRo/view?usp=sharing)
-  - Comentar posibilidades y caminos 
-  - Repaso P5
-   - secuencia de elementos 
-   - cargar archivos
-      - peculiaridades de javascript y trabajo en web
-   - trabajar en el tiempo
-     - setup y draw › cambios en el tiempo y eventos
-   
-- [x] [Sesión 03](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
-
+- [x] [Sesion 02](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s02) - Eventos y arreglos en P5 | [Código](https://editor.p5js.org/emilioocelotl/sketches/o0SQFym9n) | [Video](https://drive.google.com/file/d/16O7oYnm_tfCPlVnXgvaolvYfaNNySbRo/view?usp=sharing)
+ 
+- [x] [Sesión 03](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) - P5 servidor local | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
 - [ ] Sesion 04
   - Probar el proyecto 
     - Servidor local con atom-live-server
