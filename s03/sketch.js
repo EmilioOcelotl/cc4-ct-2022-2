@@ -7,6 +7,8 @@ let img;
 let texto = 'Un bucle que no se detiene';
 let video;
 
+// arreglos › archivo como partitura
+
 function preload(){
   audio = loadSound('audios/rv140-5.wav');
   img = loadImage('img/antiNuevo.png');

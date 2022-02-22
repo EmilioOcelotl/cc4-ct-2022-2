@@ -34,13 +34,21 @@
   - Espacio insuficiente ¿ Cambio a un modo local?
     - [Atom](https://atom.io/)
     - edit > preferences > install > local-web-server
-    - En la ventana de index.html > Clic derecho > Start Local Web Server 
+    - En la ventana de index.html > Clic derecho > Start Local Web Server ( ya no funciona ) 
 
 - [ ] Sesion 04
+  - Probar el proyecto 
+    - Servidor local con atom-live-server
+    - Github pages > [Prueba](https://github.com/EmilioOcelotl/cc3)
+    - Para el futuro: cuenta y vincular github con atom 
+  - Preparación de materiales: formatos, tamaños, duraciones
   - Arreglos como una forma de almacenar colecciones
-  - Eventos y estructura en P5       	  
-  - Si da tiempo: definir estructura con un archivo externo 
-  
+  - Eventos y estructura en P5 (if, botones, teclado, mouse) 
+  - Si da tiempo: definir estructura con arreglos
+
+- [ ] Sesión 05
+  - Archivos JSON 
+
 ## Actividades de aprendizaje en clase
 
 - Dibujo mediante funciones simples de P5
@@ -77,3 +85,5 @@
 - [Estuary](https://estuary.mcmaster.ca/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [w3schools](https://www.w3schools.com/)
+- [local-web-server](https://atom.io/packages/local-web-server)
+- [atom-live-server](https://atom.io/packages/atom-live-server) 
