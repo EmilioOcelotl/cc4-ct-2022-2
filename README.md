@@ -23,23 +23,12 @@
    - trabajar en el tiempo
      - setup y draw › cambios en el tiempo y eventos
    
-- [x] Sesión 03 | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
-  - Comentar: anti y la asociación entre [Glitch](https://glitch.com/) y [Digital Ocean](https://www.digitalocean.com/) 
-  - El navegador como salida al trabajo con p5
-    - Posibilidades y retos
-    - Economía de recursos vs calidad
-    - La consola 
-  - Tipos de datos y carga de archivos en P5
-    - preload, loadSound, loadImage, createVideo
-  - Espacio insuficiente ¿ Cambio a un modo local?
-    - [Atom](https://atom.io/)
-    - edit > preferences > install > local-web-server
-    - En la ventana de index.html > Clic derecho > Start Local Web Server ( ya no funciona ) 
+- [x] [Sesión 03](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
 
 - [ ] Sesion 04
   - Probar el proyecto 
     - Servidor local con atom-live-server
-    - Github pages > [Prueba](https://github.com/EmilioOcelotl/cc3)
+    - Github pages > [Prueba](https://emilioocelotl.github.io/cc3/) y [repositorio](https://github.com/EmilioOcelotl/cc3)
     - Para el futuro: cuenta y vincular github con atom 
   - Preparación de materiales: formatos, tamaños, duraciones
   - Arreglos como una forma de almacenar colecciones
