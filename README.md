@@ -11,14 +11,19 @@
 - [x] [Sesion 02](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s02) - Eventos y arreglos en P5 | [Código](https://editor.p5js.org/emilioocelotl/sketches/o0SQFym9n) | [Video](https://drive.google.com/file/d/16O7oYnm_tfCPlVnXgvaolvYfaNNySbRo/view?usp=sharing)
  
 - [x] [Sesión 03](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) - P5 servidor local | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
+
 - [ ] Sesion 04
   - Probar el proyecto 
     - Servidor local con atom-live-server
-    - Github pages > [Prueba](https://emilioocelotl.github.io/cc3/) y [repositorio](https://github.com/EmilioOcelotl/cc3)
-    - Para el futuro: cuenta y vincular github con atom 
+    - Github pages > [Prueba](https://emilioocelotl.github.io/cc4/) y [repositorio](https://github.com/EmilioOcelotl/cc4)
+    - Para el futuro: cuenta y vincular github con atom
+  - Escenas eventos y estructura en P5
+    - [if-else](https://p5js.org/es/reference/#/p5/if-else)
+    - [createButton()](https://p5js.org/es/reference/#/p5/createButton)
+    - [keyPressed()](https://p5js.org/es/reference/#/p5/keyPressed)
+    - [mouse](https://p5js.org/es/reference/#/p5/mouseX) 
   - Preparación de materiales: formatos, tamaños, duraciones
-  - Arreglos como una forma de almacenar colecciones
-  - Eventos y estructura en P5 (if, botones, teclado, mouse) 
+  - Arreglos como una forma de almacenar colecciones 
   - Si da tiempo: definir estructura con arreglos
 
 - [ ] Sesión 05
