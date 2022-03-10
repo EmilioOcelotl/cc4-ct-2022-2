@@ -13,7 +13,7 @@
 - [x] [Sesión 03](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) - P5 servidor local | [Código P5](https://editor.p5js.org/emilioocelotl/sketches/Pt0WO6brI) | [Proyecto](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s03) | [Video](https://drive.google.com/file/d/1basqY3xzUHHrYO5ky2GwF59aPxn4TLrU/view?usp=sharing) 
 - [x] [Sesion 04](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s04) - Servidor local y eventos | [Video](https://drive.google.com/file/d/1duhl5p8EtipH3hCxzaRMLayGWTxJb1wu/view?usp=sharing) 
 
-- [ ] Sesión 05
+- [x] Sesión 05
   - [Entre Telas e Aflições](https://entretelaseaflicoes.com/) - Documental interactivo 
   - Errores y pruebas en p5. Versión definitiva en servidor local 
   - [Proyecto inicial](https://drive.google.com/file/d/1do78RYIvJVUD5iMqBuo8FUJjo2mQ2GNN/view?usp=sharing) 
@@ -22,7 +22,16 @@
   - Primera entrega: la imagen resultante del ejercicio 
 
 - [ ] Sesión 06
-  - Joana Chicau y Renick Bell 
+  - [The Stage is (A)Live!](https://www.geometries.xyz/theStageIsAlive/index.html) - Joana Chicau y Renick Bell 
+  - Entrega pendiente
+  - ¿ Qué es un paisaje sonoro ?
+  - [Sonido](https://processing.org/tutorials/sound) con [Tone.js](https://tonejs.github.io/)
+    - Muestreo y archivos de audio 
+    - amplitud, decibeles y escala logarítmica 
+    - Conexiones y ruteo como en DAWs
+
+- [ ] Sesión 07
+  - Creación y escritura de JSON
 
 ## Entregas
 
