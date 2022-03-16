@@ -31,8 +31,12 @@
     - Conexiones y ruteo como en DAWs
 
 - [ ] Sesión 07
+  - Selección de archivos de audio.
+    - Sugerencia: [archive](https://archive.org/) 
   - Efectos y audio 
   - Creación y escritura de JSON
+    - prueba con [JSON lint](https://jsonlint.com/)
+  - Cuenta en github y montaje 
 
 ## Entregas
 
@@ -75,4 +79,5 @@
 - [Digital Ocean](https://www.digitalocean.com/)
 - [w3schools](https://www.w3schools.com/)
 - [local-web-server](https://atom.io/packages/local-web-server)
-- [atom-live-server](https://atom.io/packages/atom-live-server) 
+- [atom-live-server](https://atom.io/packages/atom-live-server)
+- [JSON lint](https://jsonlint.com/)

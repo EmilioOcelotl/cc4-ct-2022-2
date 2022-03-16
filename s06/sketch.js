@@ -13,14 +13,29 @@ let sc = [];
 let tMeter = [];
 
 function preload(){
+
+  // player = new Player("solounarchivo.mp33")
+  // player2 = new Player("solounarchivo2.mp33")
+
+// audios = [audio1, audio2, audio3]
+// javascript 
+
+// interfaz gráfica
+
     sonidos = new Tone.Players({
       "0": "audios/ciudad.mp3",
       "1": "audios/desert.mp3",
       "2": "audios/jungle.mp3",
       "3": "audios/woods.mp3",
-    }).toDestination();
+    }).toDestination(); //
 
 // fondos.volume.value = -6;
+
+// 1 + mouseY = volumen del primer sonido
+// 2 + mouseY = volumen del segundo sonido
+// 3 + mouseY = volumen del tercero sonido
+// 4 + mouseY = volumen del cuarto sonido
+
 }
 function setup() {
 
@@ -53,6 +68,11 @@ function setup() {
 
 function draw() {
 
+  // 60 fps > imagen 4k
+  // 44100 muestras por segundo wav flac aiff
+
+  // sonido.play()
+
   background(0);
   let tamR;
 
@@ -77,7 +97,7 @@ function draw() {
       translate((x + 1) * (width / 3),
                 (y + 1) * (width / 3));
 
-      rotate(radians(mapRot));
+      // rotate(radians(mapRot));
       fill(colores[cont]);
 
       rect(-(tamR / 2), -(tamR / 2), tamR, tamR );
@@ -95,7 +115,7 @@ function draw() {
   ellipse(0, 0, tamaño, tamaño);
   pop();
 
-  if (keyIsPressed && key == "s") {
+  if (keyIsPressed && key == "s") { // efectos de sonido
     tamaño = mouseX;
   }
 
@@ -122,7 +142,19 @@ function miBoton(){
   // miBooleano = true;
   loop();
 
+  // sonidos.player("0").start()
+  // sonidos.player("1").start()
+  // sonidos.player("2").start()
+  // sonidos.player("3").start()
+
+
+  // 1. osciladores o generadores
+  // 2. Grabaciones o muestras
+  // 3. Efectos
+  // 4. analisis > amplitud frecuenciia
+
   for(let i = 0; i < 4; i++){
+    //
     sonidos.player(i.toString()).start();
     sonidos.player(i.toString()).connect(tMeter[i]) ;
   }
