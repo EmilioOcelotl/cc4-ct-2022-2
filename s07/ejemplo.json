@@ -1,0 +1,14 @@
+{
+  "audios":{
+    "p0" : "audios/ciudad.mp3",
+    "p1" : "audios/desert.mp3",
+    "p2" : "audios/jungle.mp3",
+    "p3" : "audios/woods.mp3"
+  },
+  "colores":{
+    "p0" : "rgba(255, 100, 200, 0.75)",
+    "p1" : "rgba(100, 255, 200, 0.75)",
+    "p2" : "rgba(200, 100, 255, 0.75)",
+    "p3" : "rgba(255, 200, 100, 0.75)" 
+  }
+}

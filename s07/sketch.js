@@ -13,10 +13,16 @@ let sc = [];
 let tMeter = [];
 
 let data;
+let data2;
 
 function preload(){
 
-  data = loadJSON("datos.json");
+data = loadJSON('ejemplo.json');
+
+
+let freeverb;
+let filter;
+
   // player = new Player("solounarchivo.mp33")
   // player2 = new Player("solounarchivo2.mp33")
 
@@ -24,7 +30,8 @@ function preload(){
 // javascript
 
 // interfaz gráfica
-// data.p3
+
+
 
 // fondos.volume.value = -6;
 
@@ -34,16 +41,20 @@ function preload(){
 // 4 + mouseY = volumen del cuarto sonido
 
 }
-
 function setup() {
 
   createCanvas(400, 400);
   noLoop();
 
-  sonidos = new Tone.Players(data.audios).toDestination(); //
+  freeverb = new Tone.Reverb().toDestination();
+  filter = new Tone.Filter(200, "lowpass").connect(freeverb);
+  sonidos = new Tone.Players(data.audios).connect(filter); //
 
-  console.log(data.audios.p0 );
-  // println();
+  // sonidos.toDestination()
+  // sonidos > fitro > reverberación > toDestination
+  // generador > transformaciones > salida
+
+  console.log(data.colores.p1);
 
   colores = [
     color(data.colores.p0),
@@ -118,6 +129,8 @@ function draw() {
   ellipse(0, 0, tamaño, tamaño);
   pop();
 
+
+
   if (keyIsPressed && key == "s") { // efectos de sonido
     tamaño = mouseX;
   }
@@ -126,8 +139,8 @@ function draw() {
     if (keyIsPressed && key == (i+1).toString() ) {
       let rango = map(mouseY, 0, width, 0.125, 1);
       sc[i] = rango;
-      let ganancia = map(mouseY, 0, width, 0, 1);
-      sonidos.player("p"+i.toString() ).volume.value = Tone.gainToDb(ganancia);
+      let ganancia = map(mouseY, 0, height, 0, 1);
+      sonidos.player(("p"+i).toString()).volume.value = Tone.gainToDb(ganancia);
     }
   }
 
@@ -136,8 +149,15 @@ function draw() {
 }
 
 function mouseDragged() {
+
   rectPosX = mouseX;
   rectPosY = mouseY;
+
+  // 0-400
+
+  filter.frequency.value = map(mouseX, 0, width, 0, 10000);
+  freeverb.wet.value = map(mouseY, 0, height, 0, 1); 
+
 }
 
 function miBoton(){
@@ -156,12 +176,10 @@ function miBoton(){
   // 3. Efectos
   // 4. analisis > amplitud frecuenciia
 
-
   for(let i = 0; i < 4; i++){
     //
-    sonidos.player("p"+i.toString()).start();
-    sonidos.player("p"+i.toString()).connect(tMeter[i]) ;
-    //p3
+    sonidos.player(("p"+i).toString()).start();
+    sonidos.player("p"+i).connect(tMeter[i]) ;
   }
 
 }

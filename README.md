@@ -30,7 +30,7 @@
     - amplitud, decibeles y escala logarítmica 
     - Conexiones y ruteo como en DAWs
 
-- [ ] Sesión 07
+- [x] Sesión 07 | [Código](https://drive.google.com/file/d/1EH4pdn_ZL_4XH8l8as_VTJcE_Nd5Fap0/view?usp=sharing) | [Video](https://drive.google.com/file/d/1lz6YRuSmjOvWEcOKD4ABtByJzHz84mR-/view?usp=sharing)
   - Selección de archivos de audio.
     - Sugerencia: [archive](https://archive.org/) 
   - Efectos y audio 
@@ -40,7 +40,7 @@
 
 ## Entregas
 
-- [ ] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
+- [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
 
 ## Actividades de aprendizaje en clase
 
