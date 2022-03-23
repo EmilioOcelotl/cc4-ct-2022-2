@@ -36,11 +36,24 @@
   - Efectos y audio 
   - Creación y escritura de JSON
     - prueba con [JSON lint](https://jsonlint.com/)
-  - Cuenta en github y montaje 
+
+- [ ] Sesión 08
+  - [Muestra](https://github.com/EmilioOcelotl/s7) 
+  - Primero: terminar el proyecto de forma local (sonidos y colores) 
+  - [Git](https://git-scm.com/), [GitHub](https://github.com/) y [GitHub Pages](https://pages.github.com/) 
+  - Crear una cuenta en GitHub
+  - Crear un nuevo repositorio, nombre y descripción
+  - Subir los archivos y commit
+  - Settings > Pages
+    - Determinar la fuente: Branch main y save
+    - Esperar unos minutos
+  - Una vez que el proyecto esté listo: subir a brightspace
+  - Proyectos finales 
 
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
+- [ ] 22.03.2022 - Segunda Entrega, Sonido e imagen 
 
 ## Actividades de aprendizaje en clase
 
