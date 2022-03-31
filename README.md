@@ -37,7 +37,7 @@
   - Creación y escritura de JSON
     - prueba con [JSON lint](https://jsonlint.com/)
 
-- [ ] Sesión 08
+- [x] Sesión 08 | [Video](https://drive.google.com/file/d/1sxeI3K83wWj8DRN3aG_w0qQHVJLDf4s1/view?usp=sharing)
   - [Muestra](https://github.com/EmilioOcelotl/s7) 
   - Primero: terminar el proyecto de forma local (sonidos y colores) 
   - [Git](https://git-scm.com/), [GitHub](https://github.com/) y [GitHub Pages](https://pages.github.com/) 
@@ -50,10 +50,17 @@
   - Una vez que el proyecto esté listo: subir a brightspace
   - Proyectos finales 
 
+- [ ] Sesión 9 - Audio y análisis
+  - [Plantilla inicial](https://drive.google.com/file/d/1y8VDdFd4l4FWIzq7yu6ar5jxvwK5gZSR/view?usp=sharing)
+  - Cargar un archivo
+  - Comprobar que funciona localmente
+  - Subirlo a github
+  
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
-- [ ] 22.03.2022 - Segunda Entrega, Sonido e imagen 
+- [x] 22.03.2022 - Segunda Entrega, Sonido e imagen 
+- [ ] 30.03.2022 - Tercera Entrega, Sonido y análisis 
 
 ## Actividades de aprendizaje en clase
 
