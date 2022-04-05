@@ -50,17 +50,24 @@
   - Una vez que el proyecto esté listo: subir a brightspace
   - Proyectos finales 
 
-- [ ] Sesión 9 - Audio y análisis
+- [x] Sesión 9 - Audio y análisis
   - [Plantilla inicial](https://drive.google.com/file/d/1y8VDdFd4l4FWIzq7yu6ar5jxvwK5gZSR/view?usp=sharing)
   - Cargar un archivo
   - Comprobar que funciona localmente
-  - Subirlo a github
-  
+
+- [ ] Sesión 10 - 3d y texturas
+  - Sistema de coordenadas y geometrías 3d
+  - Texturas
+  - [Hydra](https://hydra.ojack.xyz/api/) 
+  - Hydra en el navegador ( prueba 20 min )
+  - Hydra como librería textura en un objeto
+  . Subir a github 
+
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
 - [x] 22.03.2022 - Segunda Entrega, Sonido e imagen 
-- [ ] 30.03.2022 - Tercera Entrega, Sonido y análisis 
+- [ ] 05.04.2022 - Tercera Entrega, Texturas y 3d 
 
 ## Actividades de aprendizaje en clase
 
