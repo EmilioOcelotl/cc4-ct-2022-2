@@ -1,3 +1,6 @@
+// javascript
+// hydra
+
 var hc;
 var pg;
 
@@ -5,12 +8,14 @@ var hydra = new Hydra({ canvas: document.getElementById("myCanvas") });
 
 /////////////////////////
 
-noise(10).color(1,0,9).out();
+// código de hydra
+
+src(o0).modulate(noise(10),0.005).blend(shape(4),0.01).out(o0)
 
 /////////////////////////
 
 function setup() {
-  createCanvas(1000,1000,WEBGL);
+  createCanvas(1000,1000,WEBGL); // 3d
   console.log("hola mundo");
   hc = select("#myCanvas");
   hc.hide();
@@ -18,14 +23,15 @@ function setup() {
 }
 
 function draw() {
-
    background(0);
-   push();
-   texture(hc);
-   rotateX(frameCount*0.001);
-   rotateY(frameCount*0.001);
-   srotateZ(frameCount*0.001);
-   box(500);
-   pop();
+
+  noStroke();
+  push();
+  texture(hc);
+  rotateX(frameCount*0.01);
+  rotateY(frameCount*0.001);
+  rotateZ(frameCount*0.001);
+  sphere(200);
+  pop();
 
 }

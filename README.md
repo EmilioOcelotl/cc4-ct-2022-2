@@ -55,7 +55,8 @@
   - Cargar un archivo
   - Comprobar que funciona localmente
 
-- [ ] Sesión 10 - 3d y texturas
+- [x] Sesión 10 - 3d y texturas | [Código](https://drive.google.com/file/d/1kiuStQ7D645QG8FVOpnaJcxQwyn-hmC_/view?usp=sharing) | [Video](https://drive.google.com/file/d/1dTEdbJ0WOxbo0MJhHf3zObEiUo9vv7lT/view?usp=sharing)
+
   - Sistema de coordenadas y geometrías 3d
   - Texturas
   - [Hydra](https://hydra.ojack.xyz/api/) 
