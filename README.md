@@ -64,11 +64,19 @@
   - Hydra como librería textura en un objeto
   . Subir a github 
 
+- [ ] Sesión 11 - Proyectos
+  - Repaso general
+  - Características de los ejercicios realizados
+  - Casos 
+    - Particulares
+    - [Vocable Code](https://dobbeltdagger.net/VocableCode/)
+  - Sugerencias para el trabajo final 
+ 
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
 - [x] 22.03.2022 - Segunda Entrega, Sonido e imagen 
-- [ ] 05.04.2022 - Tercera Entrega, Texturas y 3d 
+- [x] 05.04.2022 - Tercera Entrega, Texturas y 3d 
 
 ## Actividades de aprendizaje en clase
 
