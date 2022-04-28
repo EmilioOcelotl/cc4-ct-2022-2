@@ -64,7 +64,7 @@
   - Hydra como librería textura en un objeto
   . Subir a github 
 
-- [ ] Sesión 11 - Proyectos
+- [x] Sesión 11 - Proyectos | [Apuntes](https://github.com/EmilioOcelotl/cc4-ct-2022-2/tree/main/s11) | [Video](https://drive.google.com/file/d/1k--W44aKjAfYzokQlQCYIG5P28167rQO/view?usp=sharing) 
   - Repaso general
   - Características de los ejercicios realizados
   - Casos 
