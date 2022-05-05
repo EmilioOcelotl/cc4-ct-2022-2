@@ -71,7 +71,14 @@
     - Particulares
     - [Vocable Code](https://dobbeltdagger.net/VocableCode/)
   - Sugerencias para el trabajo final 
- 
+
+- [ ] Sesión 12 - Escenas y secuencias
+  - Discusión sobre intereses y posibilidades 
+  - Propuesta de estructura para la entrega final
+    - funciones() como soluciones para agrupar escenas 
+    - Escenas con botones
+    - Secuencias con objetos ([loop](https://tonejs.github.io/docs/14.7.77/Loop.html)) de tone.js > [switch](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch) 
+
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
