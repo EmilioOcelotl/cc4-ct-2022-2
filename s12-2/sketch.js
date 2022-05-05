@@ -6,6 +6,7 @@ Con LINE_LOOP
 
 let bt;
 let loop;
+let color = 0;
 
 function setup() {
 
@@ -19,18 +20,19 @@ function setup() {
   bt.mousePressed(aInit);
 
   loop = new Tone.Loop((time) => {
-    // triggered every eighth note.
     console.log("evento");
+    color = Math.random() * 255;
+
   }, "1");
 
 }
 
-function draw() {
-  background(220);
+function draw() { // 50 cuadros
+  background(color);
 }
 
 function aInit(){
     loop.start();
-    Tone.Transport.start();
-    bt.hide(); 
+    Tone.Transport.start(); // reloj
+    bt.hide();
 }

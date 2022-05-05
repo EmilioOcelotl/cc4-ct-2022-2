@@ -72,7 +72,7 @@
     - [Vocable Code](https://dobbeltdagger.net/VocableCode/)
   - Sugerencias para el trabajo final 
 
-- [ ] Sesión 12 - Escenas y secuencias
+- [x] Sesión 12 - Escenas y secuencias | [Código 1](https://drive.google.com/file/d/1zrz2PTQ5MJcAcyxf1zDDKDhyX7eJXEj0/view?usp=sharing) | [Código 2](https://drive.google.com/file/d/1BrfkaZ_fde95DqT5cedzZr9NTYbIaIQA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1mynk1JhqQR-EHeIgVBln0l2-zEuKL6Gu/view?usp=sharing)
   - Discusión sobre intereses y posibilidades 
   - Propuesta de estructura para la entrega final
     - funciones() como soluciones para agrupar escenas 

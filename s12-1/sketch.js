@@ -3,26 +3,41 @@
 Múltiples caminos con botones
 Ejercicio en clase: ¿Cómo agregar videos?
 
-Para loop: solamente el número mide en segundos 
+Para loop: solamente el número mide en segundos
 
 */
 
 
 let bt1, bt2, bt3, bt4, bt5, bt6, bt7;
+// bt = []
+
+/*
+
+for(){
+  bt[i]
+}
+
+*/
 
 let colores;
 let data;
-let numero = 0;
+let numero = 0; // video a una escena
 
-function preload(){
+function preload(){ // cuidado con el audio
 
   data = loadJSON('data.json');
+  // txt > parsing "," "/n"
+  // data.colores.p5
 
 }
+
+// preload2 > promesas callbacks
 
 function setup() {
 
   createCanvas(400, 400);
+
+  // inicializar el audio
 
   bt1 = createButton('iniciar');
   bt2 = createButton('camino 1');
@@ -60,11 +75,13 @@ function setup() {
     color(data.colores.p7)
   ];
 
+  // colores[6]
+
 }
 
 function draw() {
 
-  // image();
+  // image(vid[numero], 0, 0);
 
 }
 
@@ -88,8 +105,10 @@ function funcbt1(){
   //-------------------
 
   background(colores[0]);
+  numero = 1;
 
   //-------------------
+  console.log(colores[0])
 
 }
 
@@ -113,6 +132,7 @@ function funcbt2(){
   //-------------------
 
   background(colores[1]);
+  numero = 2;
 
   //-------------------
 
@@ -139,6 +159,8 @@ function funcbt3(){
   //-------------------
 
   background(colores[2]);
+  numero = 3;
+
 
   //-------------------
 
@@ -159,6 +181,7 @@ function funcbt4(){
   //-------------------
 
   background(colores[3]);
+  numero = 4;
 
   //-------------------
 
@@ -179,6 +202,7 @@ function funcbt5(){
   //-------------------
 
   background(colores[4]);
+  numero = 5;
 
   //-------------------
 
@@ -199,6 +223,8 @@ function funcbt6(){
   //-------------------
 
   background(colores[5]);
+  numero = 6;
+
 
   //-------------------
 
@@ -219,6 +245,8 @@ function funcbt7(){
   //-------------------
 
   background(colores[6]);
+  numero = 7; // audio o video
+
 
   //-------------------
 
