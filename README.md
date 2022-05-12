@@ -79,6 +79,20 @@
     - Escenas con botones
     - Secuencias con objetos ([loop](https://tonejs.github.io/docs/14.7.77/Loop.html)) de tone.js > [switch](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch) 
 
+- Sesión 13 | [Video](https://drive.google.com/file/d/1C7iz0Bb1WNN60ooy7OcRpHWbrfWg30lu/view?usp=sharing)
+
+  - Cierre y entregas pendientes 
+  - Otras clases que se relacionen con audio 
+  - Generar código inicial para la web 
+  - Códigos de la semana pasada  + av
+  - texturas, audio, video, imagen, texto 
+    - materiales grabados
+    - buscar en internet - archive.org 
+  - Selección de materiales determinar escenas y sesiones posteriores 
+  - estructura 
+  - agregar transformaciones con efectos y hydra 
+  - subir a github 
+
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 

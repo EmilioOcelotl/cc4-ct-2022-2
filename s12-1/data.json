@@ -7,5 +7,26 @@
     "p5" : "rgb(100, 255, 150)",
     "p6" : "rgb(150, 255, 255)",
     "p7" : "rgb(255, 255, 150)"
+  },
+
+  "videos":{
+    "p1" : "videos/miArchivo.mov",
+    "p2" : "videos/miOtroArchivo.mov",
+    "p3" : "videos/video3.mov",
+    "p4" : "videos/video4.mov",
+    "p5" : "videos/video5.mov",
+    "p6" : "videos/video6.mov",
+    "p7" : "videos/video7.mov",
+  },
+
+  "audios":{
+    "p1" : "audios/miAudio.mp3",
+    "p2" : "audios/miAudio.mp3",
+    "p3" : "audios/miAudio.mp3",
+    "p4" : "audios/miAudio.mp3",
+    "p5" : "audios/miAudio.mp3",
+    "p6" : "audios/miAudio.mp3",
+    "p7" : "audios/miAudio.mp3",
+
   }
 }
