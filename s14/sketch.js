@@ -53,8 +53,9 @@ function setup() {
   bt6.hide();
   bt7.hide();
 
-  bt1.position(random(0+bt3.width, width-bt3.width ),
-               random(0+bt3.height, width-bt3.height ));
+  bt1.position(random(0+bt1.width, width-bt1.width ),
+               random(0+bt1.height, width-bt1.height ));
+
   colores = [
     color(data.colores.p1),
     color(data.colores.p2),
@@ -93,7 +94,8 @@ function funcbt1(){
   bt2.show();
   bt3.show();
 
-  bt2.position(0, bt1.width);
+  bt2.position(random(0+bt2.width, width-bt2.width ),
+               random(0+bt2.height, width-bt2.height ));
 
   bt3.position(random(0+bt3.width, width-bt3.width ),
                random(0+bt3.height, width-bt3.height ));

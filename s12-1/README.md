@@ -1,14 +1,7 @@
-# Primera opción: botones
+# Entrega final
 
-- botones asociados a funciones
+- Búsqueda de 7 videos en [giphy](https://giphy.com/)
+- Búsqueda de 7 audios en [freesoundproject](https://freesound.org/) o [archive](https://archive.org/)
 
-## Apuntes
-
-- escenas > funciones
-  - arbol de decisiones (botones, sliders) y secuencia
-- contador, tecla
-- usuarix
-
-## escenas
-
-- Escena1: color, botón, function
+- Modificar json y asociar audios con videos
+- Subir el proyecto a github 
