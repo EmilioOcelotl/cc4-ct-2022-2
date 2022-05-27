@@ -93,6 +93,12 @@
   - agregar transformaciones con efectos y hydra 
   - subir a github 
 
+- Sesión 14 - Entrega final | [Video](https://drive.google.com/file/d/13ajhhziU9CzDp3u70lJiq5HvDv-ZK85S/view?usp=sharing) | [Código](https://drive.google.com/file/d/1m7-Bf0TgJDq6JfMWp5cW0AwXwXdbOwwt/view?usp=sharing)
+
+  - Entregas pendientes 
+  - Seleccionar audios y videos
+  - Subir el proyecto a github
+
 ## Entregas
 
 - [x] 03.03.2022 - Primera entrega, imagen con previsualizaciones 
