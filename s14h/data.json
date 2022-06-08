@@ -9,8 +9,8 @@
     "p7" : "rgb(255, 255, 150)"
   },
   "videos":{
-    "p1" : "",
-    "p2" : "",
+    "p1" : "https://media.giphy.com/media/VTFsYJfdUTvaaL3LJ2/giphy.mp4",
+    "p2" : "https://media.giphy.com/media/yySi80ddkBd4WxmGnU/giphy.mp4",
     "p3" : "",
     "p4" : "",
     "p5" : "",
@@ -19,7 +19,7 @@
   },
 
   "audios":{
-    "p1" : "audios/miSonido.mp3",
+    "p1" : "https://ia600308.us.archive.org/29/items/RainAndThunderstorms/Greg%20Schwartzkopf%20-%20Rain%20%26%20Thunderstorms.mp3",
     "p2" : "audios/miSonido.mp3",
     "p3" : "audios/miSonido.mp3",
     "p4" : "audios/miSonido.mp3",

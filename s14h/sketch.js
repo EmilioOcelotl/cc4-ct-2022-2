@@ -127,7 +127,7 @@ function funcbt1(){
 
   numero = 1;
 
-  // video[numero].loop();
+  // video[3].loop();
 
   hydra.s0.initVideo(data.videos.p1);
 
@@ -171,6 +171,8 @@ function funcbt2(){
   }
 
   // video[numero].loop();
+  hydra.s0.initVideo(data.videos.p2);
+
 
   if(checkbox.checked()){
     hydra.src(hydra.s0).modulateKaleid(hydra.noise(hNoise)).out(hydra.o0);
@@ -212,6 +214,7 @@ function funcbt3(){
   }
 
   // video[numero].loop();
+  hydra.s0.initVideo(data.videos.p3);
 
   if(checkbox.checked()){
     hydra.src(hydra.s0).modulateKaleid(hydra.noise(hNoise)).out(hydra.o0);
@@ -247,6 +250,8 @@ function funcbt4(){
   for(let i = 0; i < 7; i++ ){ // 0, 1, 2, 3, 4, 5, 6
     video[i].stop();
   }
+
+  hydra.s0.initVideo(data.videos.p4);
 
   if(checkbox.checked()){
     hydra.src(hydra.s0).modulateKaleid(hydra.noise(hNoise)).out(hydra.o0);
@@ -284,6 +289,7 @@ function funcbt5(){
   }
 
   // video[numero].loop();
+  hydra.s0.initVideo(data.videos.p5);
 
   if(checkbox.checked()){
     hydra.src(hydra.s0).modulateKaleid(hydra.noise(hNoise)).out(hydra.o0);
@@ -319,6 +325,8 @@ function funcbt6(){
   for(let i = 0; i < 7; i++ ){ // 0, 1, 2, 3, 4, 5, 6
     video[i].stop();
   }
+
+  hydra.s0.initVideo(data.videos.p6);
 
   if(checkbox.checked()){
     hydra.src(hydra.s0).modulateKaleid(hydra.noise(hNoise)).out(hydra.o0);
@@ -358,6 +366,7 @@ function funcbt7(){
   }
 
   // video[numero].loop();
+  hydra.s0.initVideo(data.videos.p7);
 
   if(checkbox.checked()){
     hydra.src(hydra.s0).modulateKaleid(hydra.noise(hNoise)).out(hydra.o0);
